@@ -24,15 +24,15 @@ Pursuing a B.Sc. in Media Engineering and Technology student specializing in CSE
 </div>
 
 ## Current Focus
+- Senior CSE and a part-time working student
 - Exploring and learning everything  
-- Building full-stack applications with the MERN stack  
 - Experimenting  
 
 ## Beyond Code
 When I'm not coding, you'll find me:  
 - Playing the oud  
-- Watching literally everything about cars (shoutout to Mat Armstrong and Cars By Maged)  
-- Listening to music and making too many playlists that I probably won’t listen to  
+- Watching literally everything about cars
+- Listening to music and making too many playlists
 
 ## If you want to reach out
 I'll be happier! Reach out to me @ aliyouse.aca@gmail.com
