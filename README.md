@@ -26,19 +26,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-000000?style=flat-square)
 ![Haskell](https://img.shields.io/badge/Haskell-000000?style=flat-square&logo=haskell&logoColor=white)
 
 #### Frameworks & Development
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -142,5 +139,5 @@ When I'm not coding, you'll probably find me:
 
 <br><br>
 
-<a href="https://aliyousef.me/">Website</a> ·
-<a href="mailto:aliyouse.aca@gmail.com">Email</a>
+<a href="https://aliyousef.me/">My Website</a> ·
+<a href="mailto:aliyouse.aca@gmail.com">Gmail</a>
