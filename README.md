@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Ali
-  <img src="./Assets/one.gif" width="50">
+  <img src="./Assets/nin.gif" width="50">
 </h2>
 
 <p><em>
