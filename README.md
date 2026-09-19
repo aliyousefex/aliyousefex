@@ -16,9 +16,7 @@
 
 <img align="right" src="./Assets/off.gif" width="320">
 
-### Tech Stack
-
-### Tech Stack
+### My Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
@@ -91,7 +89,6 @@ const ali = {
     "JavaScript",
     "TypeScript",
     "C++",
-    "R",
     "SQL"
   ],
 
@@ -106,7 +103,7 @@ const ali = {
     "Linux"
   ],
 
-  research: {
+  B.Sc Thesis: {
     project: "Sentinel",
     focus: "LLM-based Multi-Source Financial Sentiment Analysis"
   },
@@ -114,10 +111,11 @@ const ali = {
   currently: [
     "Learning",
     "Building",
-    "Experimenting"
+    "Experimenting",
+    "Making mistakes" (will fix them)
   ],
 
-  challenge: "Turning confusing problems into something clear and useful"
+  Motto: "Above and beyond"
 };
 ```
 
@@ -128,7 +126,6 @@ When I'm not coding, you'll probably find me:
 - Playing the oud
 - Watching literally anything about cars
 - Listening to music
-- Making way too many playlists
 
 <br>
 
