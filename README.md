@@ -112,7 +112,7 @@ const ali = {
     "Learning",
     "Building",
     "Experimenting",
-    "Making mistakes" (will fix them)
+    "Making mistakes" // will eventually fix them
   ],
 
   Motto: "Above and beyond"
