@@ -1,38 +1,107 @@
-<div align="center">
+<h2>
+  Hi there, I'm Ali
+  <img src="./Assets/one.gif" width="50">
+</h2>
 
-# Ali Yousef
+<p><em>
+  Computer Science & Engineering Student at
+  <a href="https://www.guc.edu.eg/">German University in Cairo</a>
+  <br>
 
-**Media Engineering & Technology Student @ GUC**  
-**ML Enthusiast**
+  Into Machine Learning, AI & Software Engineering
+  <br>
 
-</div>
+  Building, experimenting and figuring things out along the way
+</em></p>
 
-Pursuing a B.Sc. in Media Engineering and Technology student specializing in CSEN at the German University in Cairo. Passionate about Machine Learning Engineering and really amazed by how close we're getting to living in a sci-fi reality. Data is the new gold.
+<img align="right" src="./Assets/off.gif" width="320">
 
-<div align="center">
+### Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=openjdk)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
-## Current Focus
-- Senior CSE and a part-time working student
-- Exploring and learning everything  
-- Experimenting  
+### A little more about me...
 
-## Beyond Code
-When I'm not coding, you'll find me:  
-- Playing the oud  
-- Watching literally everything about cars
-- Listening to music and making too many playlists
+```javascript
+const ali = {
+  education: "B.Sc. Computer Science & Engineering @ GUC",
 
-## If you want to reach out
-I'll be happier! Reach out to me @ aliyouse.aca@gmail.com
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Science",
+    "Software Engineering",
+    "Cloud & DevOps"
+  ],
+
+  code: [
+    "Python",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "R",
+    "SQL"
+  ],
+
+  tools: [
+    "React",
+    "Node.js",
+    "Django",
+    "ASP.NET Core",
+    "Docker",
+    "Azure",
+    "Git",
+    "Linux"
+  ],
+
+  research: {
+    project: "Sentinel",
+    focus: "LLM-based Multi-Source Financial Sentiment Analysis"
+  },
+
+  currently: [
+    "Learning",
+    "Building",
+    "Experimenting"
+  ],
+
+  challenge: "Turning confusing problems into something clear and useful"
+};
+```
+
+### Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+- Playing the oud
+- Watching literally anything about cars
+- Listening to music
+- Making way too many playlists
+
+<br>
+
+<em>
+  <b>I love connecting with different people,</b>
+  so if you want to say <b>hi</b>, I'd be happy to hear from you!
+</em>
+
+<br><br>
+
+<a href="https://aliyousef.me/">Website</a> ·
+<a href="mailto:aliyouse.aca@gmail.com">Email</a>
